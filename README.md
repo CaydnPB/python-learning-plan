@@ -17,8 +17,14 @@
 <p>
   Project files in this repository include:
   <ul>
-    <li><strong>data-structures.py</strong></li>
-    <li><strong>hello-world.py</strong></li>
+    <li><strong>data_structures.py</strong></li>
+    <li><strong>hello_world.py</strong></li>
+    <li><em><strong>weather</strong></em></li>
+      <ul>
+        <li><strong>__init__.py</strong></li>
+        <li><strong>__main__.py</strong></li>
+        <li><strong>weather-generator.py</strong></li>
+      </ul>
   </ul>
 </p>
 
