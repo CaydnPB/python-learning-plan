@@ -17,14 +17,15 @@
 <p>
   Project files in this repository include:
   <ul>
-    <li><strong>data_structures.py</strong></li>
-    <li><strong>hello_world.py</strong></li>
-    <li><em><strong>weather</strong></em></li>
+    <li>weather</li>
       <ul>
         <li><strong>__init__.py</strong></li>
         <li><strong>__main__.py</strong></li>
-        <li><strong>weather-generator.py</strong></li>
+        <li><strong>weather_generator.py</strong></li>
       </ul>
+    <li><strong>data_structures.py</strong></li>
+    <li><strong>hello_world.py</strong></li>
+    <li><strong>word_guesser.py</strong></li>
   </ul>
 </p>
 
