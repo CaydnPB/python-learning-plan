@@ -17,6 +17,7 @@
 <p>
   Project files in this repository include:
   <ul>
+    <li><strong>data-structures.py</strong></li>
     <li><strong>hello-world.py</strong></li>
   </ul>
 </p>
