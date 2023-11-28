@@ -17,6 +17,10 @@
 <p>
   Project files in this repository include:
   <ul>
+    <li>Assets</li>
+      <ul>
+        <li><strong>text_file.txt</strong></li>
+      </ul>
     <li>weather</li>
       <ul>
         <li><strong>__init__.py</strong></li>
@@ -26,6 +30,7 @@
     <li><strong>advanced_dataset.py</strong></li>
     <li><strong>data_structures.py</strong></li>
     <li><strong>hello_world.py</strong></li>
+    <li><strong>word_counter.py</strong></li>
     <li><strong>word_guesser.py</strong></li>
   </ul>
 </p>
