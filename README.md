@@ -41,6 +41,8 @@
       </ul>
     <li><strong>advanced_dataset.py</strong></li>
     <li><strong>data_structures.py</strong></li>
+    <li><strong>oop_animal.py</strong></li>
+    <li><strong>oop_circle.py</strong></li>
     <li><strong>hello_world.py</strong></li>
     <li><strong>word_counter.py</strong></li>
     <li><strong>word_guesser.py</strong></li>
