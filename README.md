@@ -21,6 +21,12 @@
       <ul>
         <li><strong>text_file.txt</strong></li>
       </ul>
+    <li>frequency</li>
+      <ul>
+        <li><strong>__init__.py</strong></li>
+        <li><strong>test_word_frequency.py</strong></li>
+        <li><strong>word_frequency.py</strong></li>
+      </ul>
     <li>largest</li>
       <ul>
         <li><strong>__init__.py</strong></li>
