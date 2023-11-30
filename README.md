@@ -15,7 +15,7 @@
 </div>
 <br>
 <ol>
-  <li>Ensure that <code>python3</code>, <code>pip</code> and <code>pytest</code> are installed</li>
+  <li>Ensure that <code>python3</code>, <code>pip</code>, <code>pytest</code>, <code>requests</code> and <code>beautifulsoup4</code> are installed</li>
   <li>Ensure that your terminal is scoped to the <code>index</code> folder: <code>cd index</code></li>
   <li>To run a file: <code>python3 {file_path}.py</code></li>
   <li>To run a test: <code>pytest {file_path}.py</code> <strong>or</strong> <code>pytest {package_name}</code></li>
@@ -61,9 +61,10 @@
     <li><strong>advanced_dataset.py</strong></li>
     <li><strong>data_structures.py</strong></li>
     <li><strong>email_validator.py</strong></li>
+    <li><strong>hello_world.py</strong></li>
     <li><strong>oop_animal.py</strong></li>
     <li><strong>oop_circle.py</strong></li>
-    <li><strong>hello_world.py</strong></li>
+    <li><strong>web_scraper.py</strong></li>
     <li><strong>word_counter.py</strong></li>
     <li><strong>word_guesser.py</strong></li>
   </ul>
