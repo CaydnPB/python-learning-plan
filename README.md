@@ -18,7 +18,7 @@
   <li>Ensure that <code>python3</code>, <code>pip</code> and <code>pytest</code> are installed</li>
   <li>Ensure that your terminal is scoped to the <code>index</code> folder: <code>cd index</code></li>
   <li>To run a file: <code>python3 {file_path}.py</code></li>
-  <li>To run a test: <code>pytest {file_path}.py</code> <strong>or</strong> <code>pytest {module_name}</code></li>
+  <li>To run a test: <code>pytest {file_path}.py</code> <strong>or</strong> <code>pytest {package_name}</code></li>
 </ol>
 <div align="center">
   <h2>Project Files</h2>
