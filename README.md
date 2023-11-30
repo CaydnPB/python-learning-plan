@@ -60,6 +60,7 @@
       </ul>
     <li><strong>advanced_dataset.py</strong></li>
     <li><strong>data_structures.py</strong></li>
+    <li><strong>email_validator.py</strong></li>
     <li><strong>oop_animal.py</strong></li>
     <li><strong>oop_circle.py</strong></li>
     <li><strong>hello_world.py</strong></li>
