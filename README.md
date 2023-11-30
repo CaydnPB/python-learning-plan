@@ -9,6 +9,18 @@
   👨‍💻 This repository was created as a part of my <a href="https://www.multiverse.io/en-GB/programmes/software-engineering" draggable="false">Multiverse Bootcamp</a>
 </p>
 <div align="center">
+  <h2>Build Process</h2>
+  <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
+    style="max-width: 100%;" title="Gradient Separator">
+</div>
+<br>
+<ol>
+  <li>Ensure that <code>python3</code>, <code>pip</code> and <code>pytest</code> are installed</li>
+  <li>Ensure that your terminal is scoped to the <code>index</code> folder: <code>cd index</code></li>
+  <li>To run a file: <code>python3 {file_path}.py</code></li>
+  <li>To run a test: <code>pytest {file_path}.py</code> <strong>or</strong> <code>pytest {module_name}</code></li>
+</ol>
+<div align="center">
   <h2>Project Files</h2>
   <img src="./img/gradient.svg" alt="A gradient separator used to distinguish sections of the page" draggable="false"
     style="max-width: 100%;" title="Gradient Separator">
@@ -32,6 +44,13 @@
         <li><strong>__init__.py</strong></li>
         <li><strong>largest_element.py</strong></li>
         <li><strong>test_largest_element.py</strong></li>
+      </ul>
+    <li>scooter</li>
+      <ul>
+        <li><strong>__init__.py</strong></li>
+        <li><strong>scooter_app.py</strong></li>
+        <li><strong>scooter_item.py</strong></li>
+        <li><strong>scooter_user.py</strong></li>
       </ul>
     <li>weather</li>
       <ul>
