@@ -15,7 +15,7 @@
 </div>
 <br>
 <ol>
-  <li>Ensure that <code>python3</code>, <code>pip</code>, <code>pytest</code>, <code>requests</code>, <code>beautifulsoup4</code>, <code>Matplotlib</code> and <code>NumPy</code> are installed</li>
+  <li>Ensure that <code>python3</code>, <code>pip</code>, <code>pytest</code>, <code>requests</code>, <code>beautifulsoup4</code>, <code>Matplotlib</code>, <code>NumPy</code> and <code>math</code> are installed</li>
   <li>Ensure that your terminal is scoped to the <code>index</code> folder: <code>cd index</code></li>
   <li>To run a file: <code>python3 {file_path}.py</code></li>
   <li>To run a test: <code>pytest {file_path}.py</code> <strong>or</strong> <code>pytest {package_name}</code></li>
