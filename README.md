@@ -65,6 +65,7 @@
     <li><strong>hello_world.py</strong></li>
     <li><strong>oop_animal.py</strong></li>
     <li><strong>oop_circle.py</strong></li>
+    <li><strong>simple_calculator.py</strong></li>
     <li><strong>web_scraper.py</strong></li>
     <li><strong>word_counter.py</strong></li>
     <li><strong>word_guesser.py</strong></li>
